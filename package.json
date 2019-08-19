@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for calender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gyanendersingh5@bitbucket.org/gyanendersingh5/server.git"
+  },
+  "author": "Gyanender singh",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gyanendersingh5/server#readme"
+}
