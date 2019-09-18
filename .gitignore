@@ -17,4 +17,6 @@ yarn-error.log*
 .project
 .settings
 .history/
-.vscode/
+.vscode/*
+package-lock.json
+.vscode/settings.json
